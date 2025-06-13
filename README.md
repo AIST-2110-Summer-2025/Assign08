@@ -1,4 +1,4 @@
-# Assignment 9: List Management
+# Assignment 8: List Management
 
 In this week's assignment, you'll complete a single exercises aimed at building
 skills in list manipulation. The exercise will require creating a list
@@ -12,7 +12,7 @@ management tool.
 ## Assignment Structure
 
 The assignment is structured into the following exercise folders under the root
-folder `assn-9-yourusername/`:
+folder `assn-8-yourusername/`:
 
   - `01-list`
 
